@@ -1,2 +1,2 @@
 # LPR_1111
-Hello
+Hello world, first repository.
